@@ -74,7 +74,7 @@
   <div class="grid" id="grid"></div>
 
   <!-- External JavaScript -->
-  <script src="https://raw.githubusercontent.com/slavoyar-img/calculator/main/code.js"></script>
+  <script src="code.js"></script>
 
   <!-- Your grid script -->
   <script src="grid.js"></script>
